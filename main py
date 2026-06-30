@@ -1,0 +1,17 @@
+print("===================================")
+print("      MARKET TRADING AI")
+print("===================================")
+
+market = "Gold"
+timeframe = "4 Hour"
+
+print(f"Market: {market}")
+print(f"Timeframe: {timeframe}")
+
+print("\nSystem Status:")
+print("- Data Engine: Offline")
+print("- Technical Analysis: Offline")
+print("- News Analysis: Offline")
+print("- AI Engine: Offline")
+
+print("\nProject initialized successfully.")ain py
